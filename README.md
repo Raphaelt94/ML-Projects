@@ -1,1 +1,3 @@
-# Classification-of-drinkers-based-on-body-signals-using-decision-trees-and-random-forests
+# ML Projects
+
+Welcome, you will find here some of my projects.
