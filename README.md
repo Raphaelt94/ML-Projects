@@ -35,7 +35,7 @@ Each project folder contains its own detailed README, code, and final reports (J
 
 |  **Project Name** | **Key Techniques Used** | **Link** |
 |------------------|--------------------------|-----------|
-| Heart Disease Detection | Decision Trees, Random Forests, Feature Selection, Model Evaluation | [View Code](https://github.com/Raphaelt94/ML-Projects/blob/main/tp_heart_disease.ipynb) |
+| Heart Disease Detection | Decision Trees, Random Forests, Feature Selection, Model Evaluation | [View Code](HeartDisease/tp_heart_disease.ipynb) |
 | Study of Isolation Forests | Isolation Forest, Unsupervised Learning, Outlier Detection, Scalability Analysis | [View Code](#) |
 | Sentiment Analysis | Text Preprocessing, NLP, Deep Learning | [View Code](#) |
 
