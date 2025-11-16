@@ -33,7 +33,7 @@ These are the primary languages, libraries, and tools I use across my projects:
 
 |  **Project Name** | **Key Techniques Used** | **Link** |
 |------------------|--------------------------|-----------|
-| Heart Disease Detection | Decision Trees, Random Forests, Feature Selection, Model Evaluation | [View Code](HeartDisease/tp_heart_disease.ipynb) |
+| Heart Disease Detection | Decision Trees, Random Forests, Feature Selection, Model Evaluation | [View Code](HeartDisease/tp_heart_disease_v2.ipynb) |
 
 
 
