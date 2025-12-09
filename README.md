@@ -34,7 +34,6 @@ These are the primary languages, libraries, and tools I use across my projects:
 |  **Project Name** | **Key Techniques Used** | **Link** |
 |------------------|--------------------------|-----------|
 | Heart Disease Detection | Random Forests, Model Evaluation, XAI (SHAP) | [View Code](HeartDisease/tp_heart_disease_v2.ipynb) |
-| Arbitrage Statistique & Gestion de Risque | K-Means, K-Medoids, DBSCAN, PCA, Pairs Trading | [View Code](Cluster_Trading_Strat.ipynb) |
 
 
 
