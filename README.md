@@ -20,9 +20,9 @@ These are the primary languages, libraries, and tools I use across my projects:
 
 | **Category** | **Skills & Tools** |
 |---------------|--------------------|
-| **Programming** | Python (Advanced), R, SQL, Bash |
+| **Programming** | Python (Advanced), R, SQL, Bash, C++ |
 | **Data Analysis & Viz** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Machine Learning** | Scikit-learn, TensorFlow |
+| **Machine Learning** | Scikit-learn, TensorFlow, PyTorch |
 | **Databases** | SQL |
 | **Version Control** | Git, GitHub |
 
@@ -35,6 +35,7 @@ These are the primary languages, libraries, and tools I use across my projects:
 |------------------|--------------------------|-----------|
 | Heart Disease Detection | Random Forests, Model Evaluation, XAI (SHAP) | [View Code](HeartDisease/tp_heart_disease_v2.ipynb) |
 | Skin Lesion Classification | Image Recognition, Features Extraction, Cross-Validation | [View Code](projet_tb3.ipynb)  |
+| Comparison of Neural Network Architecture for Option Pricing | Deep Learning, PyTorch, Optimization | [View Code](pricing(1).ipynb)  |
 
 
 
@@ -44,7 +45,7 @@ These are the primary languages, libraries, and tools I use across my projects:
 
 I am always open to discussing new data challenges, collaborative projects, and career opportunities.
 
-- **LinkedIn:** [www.linkedin.com/in/raphaël-trinquant-645b70331](https://www.linkedin.com/in/raphaël-trinquant-645b70331) 
+- **LinkedIn:** [www.linkedin.com/in/raphaeltrinquant](https://www.linkedin.com/in/raphaeltrinquant) 
 - **GitHub:** [github.com/RaphaelTrinquant](https://github.com/Raphaelt94)
 - **Email** [raphael.trinquant@etu.emse.fr](raphael.trinquant@etu.emse.fr)
 
