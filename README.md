@@ -34,6 +34,7 @@ These are the primary languages, libraries, and tools I use across my projects:
 |  **Project Name** | **Key Techniques Used** | **Link** |
 |------------------|--------------------------|-----------|
 | Heart Disease Detection | Random Forests, Model Evaluation, XAI (SHAP) | [View Code](HeartDisease/tp_heart_disease_v2.ipynb) |
+| Skin Lesion Classification | Image Recognition, Features Extraction, Cross-Validation | [View Code](projet_tb3.ipynb)  |
 
 
 
