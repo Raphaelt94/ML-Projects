@@ -35,7 +35,7 @@ These are the primary languages, libraries, and tools I use across my projects:
 |------------------|--------------------------|-----------|
 | Heart Disease Detection | Random Forests, Model Evaluation, XAI (SHAP) | [View Code](HeartDisease/tp_heart_disease_v2.ipynb) |
 | Skin Lesion Classification | Image Recognition, Features Extraction, Cross-Validation | [View Code](projet_tb3.ipynb)  |
-| Comparison of Neural Network Architecture for Option Pricing | Deep Learning, PyTorch, Optimization | [View Code](pricing(1).ipynb)  |
+| Comparison of Neural Network Architecture for Option Pricing | Deep Learning, PyTorch, Optimization | [View Code](Pricing(1).ipynb)  |
 
 
 
